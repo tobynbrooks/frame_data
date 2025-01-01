@@ -1,0 +1,6 @@
+image_data/
+__pycache__/
+*.jpg
+*.pyc
+.DS_Store
+get-pip.py
