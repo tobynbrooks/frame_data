@@ -1,0 +1,17 @@
+image_data/
+__pycache__/
+*.jpg
+*.pyc
+.DS_Store
+get-pip.py
+*.mov
+*.MOV
+*.mp4   
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.webm
+*.m4v
+videos/
+fine tune images yolo/
